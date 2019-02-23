@@ -12,7 +12,7 @@ Easy Renamer is a batch file to remove a common part from files in a folder. Thi
 
 ### Example Code
 
-Remove __-min__ of all jpg files in the folder.
+Remove __-min__ of all png files in the folder.
 
 ![alt text](https://i.ibb.co/zmbYs7g/Capture.jpg)
 
